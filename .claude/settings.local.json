@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.mattermost.com)",
+      "WebFetch(domain:mattermost.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:hub.docker.com)"
+    ]
+  }
+}
